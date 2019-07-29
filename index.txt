@@ -1,2 +1,3 @@
 nama : darlan
 nim : 1213140060
+alamat : kendari
